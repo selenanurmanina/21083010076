@@ -1,0 +1,11 @@
+print("-" * 20)
+print("tugas 1 kelas b")
+print("-" * 20)
+print("nama : selena nurmanina a")
+print("npm: 21083010076")
+print("-" * 20)
+print("note: ")
+print("-" * 20)
+print("halo dunia")
+print("ini adalah skrip pertama dilinux!")
+
